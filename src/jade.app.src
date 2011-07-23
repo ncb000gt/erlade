@@ -1,0 +1,10 @@
+{application, jade,
+ [{description, "Jade template engine in Erlang."},
+  {vsn, "0.0.1"},
+  {registered, []},
+  {modules, [jade]},
+  {applications, [kernel, stdlib]},
+  {env, []}
+ ]
+}.
+
